@@ -22,13 +22,12 @@ Ce site est hébergé sur GitHub Pages. Vous pouvez le consulter à l'adresse su
 ## Installation
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/<votre-nom-utilisateur>/<nom-du-dépôt>.git
+   git clone https://github.com/hounsouabel/portfolio-html.git
    ```
 2. Ouvrez le fichier `index.html` dans votre navigateur.
 
 ## Auteur
 **Abel HOUNSOU**
-- [LinkedIn](https://www.linkedin.com/in/abel-hounsou)
 - [GitHub](https://github.com/hounsouabel)
 
 ## Licence
